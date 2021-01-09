@@ -1,3 +1,7 @@
+# Build
+content/public/app/
+content/public/popup/popup*
+
 # Logs
 logs
 *.log
