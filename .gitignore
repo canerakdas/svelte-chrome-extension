@@ -1,6 +1,7 @@
 # Build
 content/public/app/
 content/public/popup/popup*
+*.js.map
 
 # Logs
 logs
